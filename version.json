@@ -1,8 +1,9 @@
 {
-  "version": "1.0.0",
-  "download": "https://github.com/bgdw666/baigei-game-update-2026/releases/latest",
+  "version": "1.0.1",
+  "download": "https://bgdw666.github.io/baigei-game-update-2026/%E7%99%BD%E7%BB%99%E3%81%AE%E6%9E%AA%E6%88%98.html",
   "changelog": [
-    "云更新系统上线",
-    "优化游戏运行体验"
+    "上线云更新系统",
+    "优化敌人轮廓蓝光",
+    "优化雷达位置配置保存"
   ]
 }
